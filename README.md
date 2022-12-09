@@ -229,6 +229,7 @@ while True:
         print("Format yang Anda Masukan Tidak Sesuai")
 ```
 output:
+\
 Menu 'Tambah Data'
 \
 ![tambah data](https://user-images.githubusercontent.com/116176746/206619736-3c162b1d-969f-4b04-b9b4-47d506b2b013.png)
