@@ -230,11 +230,14 @@ while True:
 ```
 output:
 Menu 'Tambah Data'
+\
 ![tambah data](https://user-images.githubusercontent.com/116176746/206619736-3c162b1d-969f-4b04-b9b4-47d506b2b013.png)
 
 Menu 'Ubah Data'
+\
 ![ubah data](https://user-images.githubusercontent.com/116176746/206619743-ae1785eb-582a-490d-be84-4fc7fd95e21f.png)
 
 Menu 'Lihat Data'
+\
 ![lihat data](https://user-images.githubusercontent.com/116176746/206619744-fb2670be-3a93-4935-9885-432bc4248da8.png)
 
